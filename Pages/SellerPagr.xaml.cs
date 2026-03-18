@@ -24,5 +24,10 @@ namespace Pract_SQL3.Pages
         {
             InitializeComponent();
         }
+
+        private void Exit(object sender, RoutedEventArgs e)
+        {
+            NavigationService.GoBack();
+        }
     }
 }
