@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\sellerpagr.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,8 +49,7 @@
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AutorisationPage.xaml",
               "RelativeToolTip": "Pages\\AutorisationPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-18T04:35:11.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T04:35:11.651Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "Pages\\AutorisationPage.xaml.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAnwEAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T04:34:17.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T04:34:17.318Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "RelativeToolTip": "Pages\\AdminPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T04:34:10.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T04:34:10.195Z"
             },
             {
               "$type": "Document",
@@ -87,8 +84,7 @@
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\LKPage.xaml",
               "RelativeToolTip": "Pages\\LKPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-18T04:13:35.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T04:13:35.739Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "Pages\\SellerPagr.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAWwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T04:12:30.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T04:12:30.739Z"
             },
             {
               "$type": "Document",
@@ -125,8 +120,7 @@
               "RelativeToolTip": "Pages\\LKPage.xaml.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T04:12:30.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T04:12:30.025Z"
             }
           ]
         }
