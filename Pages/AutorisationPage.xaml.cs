@@ -42,6 +42,7 @@ namespace Pract_SQL3.Pages
                 MessageBox.Show(errors.ToString());
                 return;
             }
+
             MessageBox.Show("добро пожаловать");
 
 
@@ -61,7 +62,7 @@ namespace Pract_SQL3.Pages
 
             if (existingUser.AccessId == 2)
             {
-                NavigationService.Navigate(new AdminPage(selectedUser: existingUser)); ///////////////
+                NavigationService.Navigate(new SellerPagr()); ///////////////
             }
 
             if (existingUser.AccessId == 3)

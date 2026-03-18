@@ -30,3 +30,5 @@ C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.pdb
 C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.exe.config
 C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AddOrEditOrder.g.cs
 C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AddOrEditOrder.baml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\SellerPagr.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\SellerPagr.baml

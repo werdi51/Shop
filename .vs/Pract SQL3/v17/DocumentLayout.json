@@ -7,15 +7,27 @@
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\sellerpagr.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\sellerpagr.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\pages\\sellerpagr.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\sellerpagr.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\autorisationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\autorisationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\lkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|c:\\users\\anton\\desktop\\bor\\wpf\\pract sql3\\pages\\lkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\pages\\lkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{952BA2C7-197E-48BD-9048-322248D7502A}|Pract SQL3.csproj|solutionrelative:pages\\lkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -26,11 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AutorisationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AutorisationPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AutorisationPage.xaml",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AutorisationPage.xaml",
+              "RelativeToolTip": "Pages\\AutorisationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T04:35:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorisationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AutorisationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AutorisationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AutorisationPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AutorisationPage.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:34:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:34:10.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LKPage.xaml",
               "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\LKPage.xaml",
               "RelativeDocumentMoniker": "Pages\\LKPage.xaml",
@@ -60,20 +110,20 @@
               "RelativeDocumentMoniker": "Pages\\SellerPagr.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\SellerPagr.xaml.cs",
               "RelativeToolTip": "Pages\\SellerPagr.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T04:12:30.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LKPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\LKPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\LKPage.xaml.cs",
               "ToolTip": "C:\\Users\\anton\\Desktop\\bor\\wpf\\Pract SQL3\\Pages\\LKPage.xaml.cs",
               "RelativeToolTip": "Pages\\LKPage.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T04:12:30.025Z",
               "EditorCaption": ""
