@@ -1,0 +1,32 @@
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\Pract SQL3.exe.config
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\Pract SQL3.exe
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\Pract SQL3.pdb
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\EntityFramework.dll
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\EntityFramework.xml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AutorisationPage.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\LKPage.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\App.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3_Content.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3_MarkupCompile.cache
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3_MarkupCompile.lref
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\MainWindow.baml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AdminPage.baml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AutorisationPage.baml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\LKPage.baml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\RegisterPage.baml
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.g.resources
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract_SQL3.Properties.Resources.resources
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.csproj.Up2Date
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.exe
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.pdb
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pract SQL3.exe.config
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AddOrEditOrder.g.cs
+C:\Users\anton\Desktop\bor\wpf\Pract SQL3\obj\Debug\Pages\AddOrEditOrder.baml

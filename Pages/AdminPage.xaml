@@ -1,0 +1,48 @@
+﻿<Page x:Class="Pract_SQL3.Pages.AdminPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pract_SQL3.Pages"
+      mc:Ignorable="d" 
+            d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminPage">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="{Binding Fio,StringFormat='Привет админ {0}'}"></TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="панель админа" FontSize="50" TextAlignment="Center">
+                <Border Width="100" Height="70" CornerRadius="20" Background="Red"> 
+                    <Button Content="выход" Background="Transparent" BorderBrush="Transparent" Foreground="White" FontSize="25" Click="ExitClick"/>
+                </Border>
+            </TextBlock>
+        </StackPanel>
+
+        <DataGrid x:Name="DGrid" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header=" ФИО" Binding="{Binding Fio}" Width="*"/>
+                <DataGridTextColumn Header="Логин" Binding="{Binding Login}" Width="*"/>
+                <DataGridTextColumn Header="Парль" Binding="{Binding Password}" Width="*"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding Access.AccessStatus}" Width="*"/>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Редактировать статус" Name="BtnEdit" Click="BtnEdit_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="auto">
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>
