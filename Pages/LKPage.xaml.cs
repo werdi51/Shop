@@ -65,9 +65,13 @@ namespace Pract_SQL3.Pages
         {
 
             var selectedOrder = OrderList.SelectedItem as Order;
-            if (selectedOrder != null || selectedOrder.Status!="Выполнен")
+            if (selectedOrder != null && selectedOrder.Status == "В работе")
             {
                 NavigationService.Navigate(new AddOrEditOrder(selectedOrder));
+            }
+            else
+            {
+                MessageBox.Show("заказ уже принят");
             }
 
         }

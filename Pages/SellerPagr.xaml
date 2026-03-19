@@ -19,6 +19,7 @@
         <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#F3F3F3">
             <TextBlock Text="Панель управления заказами" VerticalAlignment="Center" FontSize="20" Margin="20,0"/>
             <Button Content="Выход" Click="Exit" Width="80" Height="30" Margin="20,0"/>
+            <Button Content="Добавить продукты" Name="AddButton" Click="AddButton_Click" Height="30"/>
         </StackPanel>
 
         <Grid Grid.Row="1" Grid.RowSpan="3">

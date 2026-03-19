@@ -80,6 +80,9 @@
     <Compile Include="Pages\AddOrEditOrder.xaml.cs">
       <DependentUpon>AddOrEditOrder.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pages\AddTovar.xaml.cs">
+      <DependentUpon>AddTovar.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\AdminPage.xaml.cs">
       <DependentUpon>AdminPage.xaml</DependentUpon>
     </Compile>
@@ -133,6 +136,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Pages\AddOrEditOrder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\AddTovar.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -21,7 +21,7 @@ namespace Pract_SQL3.Pages
     public partial class AddOrEditOrder : Page
     {
         private User _currentUser;
-        private Order _editingOrder; // если не null, значит редактирование
+        private Order _editingOrder; 
         private List<TovarSelection> _tovarSelections;
 
         public AddOrEditOrder(User user) : this()
@@ -33,11 +33,10 @@ namespace Pract_SQL3.Pages
         public AddOrEditOrder(Order order) : this()
         {
             _editingOrder = order;
-            _currentUser = order.User; // получаем пользователя из заказа
+            _currentUser = order.User; 
             InitializePage(false);
         }
 
-        // Пустой конструктор для XAML
         public AddOrEditOrder()
         {
             InitializeComponent();
@@ -45,12 +44,11 @@ namespace Pract_SQL3.Pages
 
         private void InitializePage(bool isNewOrder)
         {
-            // Загружаем все товары
             var allTovars = DB.Context.Tovar.ToList();
 
             if (isNewOrder)
             {
-                // Новый заказ: все товары с количеством 0
+                
                 _tovarSelections = allTovars.Select(t => new TovarSelection
                 {
                     Id = t.Id,
@@ -61,7 +59,7 @@ namespace Pract_SQL3.Pages
             }
             else
             {
-                // Редактирование: проставляем количество из существующих позиций
+                
                 var orderItems = _editingOrder.OrderItem.ToDictionary(oi => oi.TovarId);
                 _tovarSelections = allTovars.Select(t => new TovarSelection
                 {
@@ -72,10 +70,9 @@ namespace Pract_SQL3.Pages
                 }).ToList();
             }
 
-            // Привязываем список к DataGrid
+            
             TovarDataGrid.ItemsSource = _tovarSelections;
 
-            // Обновляем заголовок
             TitleTextBlock.Text = isNewOrder ? "Новый заказ" : $"Редактирование заказа №{_editingOrder.Id}";
         }
 

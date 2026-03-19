@@ -21,7 +21,6 @@ namespace Pract_SQL3.Pages
         {
             try
             {
-
                 var allOrders = DB.Context.Order
                     .Include(o => o.OrderItem.Select(oi => oi.Tovar))
                     .Include(o => o.User) 
@@ -35,6 +34,7 @@ namespace Pract_SQL3.Pages
             {
                 MessageBox.Show("Ошибка при загрузке заказов: " + ex.Message);
             }
+
         }
 
         private void Page_IsVisibleChanged(object sender, DependencyPropertyChangedEventArgs e)
@@ -62,6 +62,40 @@ namespace Pract_SQL3.Pages
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
+            var button = sender as Button;
+
+            if (button?.DataContext is Order selectedOrder)
+            {
+                if (selectedOrder.Status == "В работе")
+                {
+                    selectedOrder.Status = "Выполняется";
+                }
+                else if (selectedOrder.Status == "Выполняется")
+                {
+                    selectedOrder.Status = "Выполнен";
+                }
+                else
+                {
+                    MessageBox.Show("Заказ уже завершен!");
+                    return;
+                }
+
+                try
+                {
+                    DB.Context.SaveChanges();
+
+                    RefreshData();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Ошибка при обновлении статуса: {ex.Message}");
+                }
+            }
+        }
+
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new AddTovar());
         }
     }
-}
+    }

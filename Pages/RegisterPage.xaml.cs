@@ -46,7 +46,7 @@ namespace Pract_SQL3.Pages
                 return;
             }
 
-            _currentUser.AccessId = 1;
+            _currentUser.AccessId = 3;
 
             if (_currentUser.Id == 0)
             {
